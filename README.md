@@ -1,15 +1,6 @@
 # AsRTNet
  ![image](https://github.com/piscookie/RT-descriptor-ML/blob/main/picture/P1.png)
 
- ├── data/                  # Data folder  
-│   ├── training_data.csv  # Large training dataset  
-│   ├── validation_data.csv  
-│   ├── test_data.csv  
-│   └── preprocessed/       # Preprocessed data folders  
-│       ├── images/  
-│       ├── features/  
-│       └── labels/  
-
 ## Environmental requirements
 pandas >= 1.5.0  
 numpy >= 1.23.0  

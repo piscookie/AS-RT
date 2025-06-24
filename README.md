@@ -1,4 +1,4 @@
-# AsRTNet/
+# AsRTNet
  ![image](https://github.com/piscookie/RT-descriptor-ML/blob/main/picture/P1.png)
  
 ## Environmental requirements

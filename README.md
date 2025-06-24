@@ -1,26 +1,6 @@
 # AsRTNet/
  ![image](https://github.com/piscookie/RT-descriptor-ML/blob/main/picture/P1.png)
-
-
-├── code/                  # Core code
-│   ├── train.py           # Model training script
-│   ├── predict.py         # New data prediction script
-│   ├── models/            # Model definitions
-│   │   └── regression_model.py  # Regression model class
-│   ├── utils/             # Utility functions
-│   │   ├── data_processing.py  # Data processing functions
-│   │   ├── visualization.py     # Visualization functions
-│   │   └── model_utils.py       # Model utility functions
-├── data/                  # Data folder
-│   ├── train/             # Training data
-│   ├── predict/           # Prediction data
-│   └── saved_models/      # Saved models
-├── results/               # Results output
-│   ├── visualizations/    # Visualization results
-│   └── predictions/       # Prediction results
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
-
+ 
 ## Environmental requirements
 pandas >= 1.5.0
 numpy >= 1.23.0
